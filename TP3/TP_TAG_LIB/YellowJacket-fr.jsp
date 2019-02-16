@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Gilets jaunes - Page française</title>
+        <title>Gilets jaunes - Page franÃ§aise</title>
     </head>
     <body>
     <%
@@ -15,7 +15,7 @@
         <OPTION value="belgique"> Belgique </OPTION>
         <OPTION value="allemagne"> Allemagne </OPTION>
         </SELECT>
-        <input type="submit" value="Submit">
+        <input type="submit" value="Valider">
     </FORM>
     <%
     }
