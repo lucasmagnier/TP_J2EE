@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jsp-config>
+<taglib>
+<taglib-uri>org.mines.douai.j2ee.tp.magniercailliez.taglib</taglib-uri>
+<taglib-location>/WEB-INF/tp.tld</taglib-location>
+</taglib>
+</jsp-config>
